@@ -2,7 +2,7 @@
 ## Multimodal Co-attention Fusion Network with Online Data Augmentation for Cancer Subtype Classification
 [(Accepted by IEEE TMI 2024)](https://ieeexplore.ieee.org/document/10539123/)
 
-![Image text](https://github.com/dingsaisai/CAMF-main/blob/main/overview.png)
+![Image text](https://github.com/dingsaisai/MCFN/blob/main/overview.png)
 
 ## Abstract
 
